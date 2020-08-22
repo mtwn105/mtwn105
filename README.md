@@ -1,46 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Amit Wani</h1>
+<h3 align="center">A passionate full stack developer from India 👩‍💻</h3>
 
-- 🔭 I’m currently working on Angular, Spring Boot
-- 🌱 I’m currently learning VueJS
-- 💬 Ask me about any tech stuff
-- 📫 How to reach me: [Twitter](https://twitter.com/mtwn105) | [Facebook](https://facebook.com/mtwn1051) 
-- ⚡ Fun fact: Flutter > React Native 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mtwn105" alt="mtwn105" /> </p>
 
-### Languages and Tools:
+- 🌱 I’m currently learning **Node.js, Vue.js**
 
-<img align="left" style="margin-right: 10px" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+- 👨‍💻 All of my projects are available at [https://amitwani.dev](https://amitwani.dev)
 
-<img align="left" style="margin-right: 10px" alt="Intellij Idea" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/intellij-idea-569199.png" />
+- 💬 Ask me about **Angular, Flutter, Spring**
 
-<img align="left" style="margin-right: 10px"  alt="HTML5" width="26px" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png" />
+- 📫 How to reach me **mtwn105@gmail.com**
 
-<img align="left" style="margin-right: 10px"  alt="CSS3" width="26px" src="https://www.shareicon.net/data/256x256/2015/09/08/97876_css_512x512.png" />
+- ⚡ Fun fact **Developer runs on Chai ❤**
 
-<img align="left" style="margin-right: 10px"  alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtwn105&layout=compact&hide=html" alt="mtwn105" /></p>
 
-<img align="left" style="margin-right: 10px"  alt="TypeScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtwn105&show_icons=true" alt="mtwn105" /></p>
 
-<img align="left" style="margin-right: 10px"  alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-
-
-
-<img align="left" alt="Node.js" style="margin-right: 10px"  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" style="margin-right: 10px"  alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" />
-
-<img align="left" style="margin-right: 10px"  alt="Spring Boot" width="26px" src="https://lh3.googleusercontent.com/proxy/nhSFpSRLItbOWBI7-iOFWDaRavRYyzmFrdwbPJjDpDN-0d7cqpSGFNTPsPoisCI20P10BbAg6eQy_tNq9V4byA" />
-
-<img align="left" style="margin-right: 10px"  alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" />
-
-<img align="left" style="margin-right: 10px"  alt="Dart" width="26px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/227/square_256/dart-logo.png" />
-
-<img align="left" style="margin-right: 10px"  alt="Android" width="26px" src="https://lh3.googleusercontent.com/proxy/l4PGzc5vLq6xGXq1EiuSdADNy7zwyo0a76ZSRSKpqB07UhS_78SENllL4H8Sj-CuJTFqFCBm1Sr80N55bzvYahc6SU7wb2i_wG5pSiqLcRFYuxt_-Z2RhCmkqEr-DHzM8Rj1GElBQBiU10MTYxN3kP1mulkI_30sMqkHvIrp6VhaOSkmIfpbudhqaw" />
-
-
-<img align="left" alt="MySQL" style="margin-right: 10px"  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" style="margin-right: 10px"  alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
-
-
-<!-- [angular]=(https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png) -->
+<p align="center">
+<a href="https://twitter.com/mtwn105" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mtwn105" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/mtwn105" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mtwn105" height="30" width="30" /></a>
+<a href="https://fb.com/mtwn1051" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mtwn1051" height="30" width="30" /></a>
+<a href="https://instagram.com/mtwn1051" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mtwn1051" height="30" width="30" /></a>
+</p>
