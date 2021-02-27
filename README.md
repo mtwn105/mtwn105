@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtwn105" alt="mtwn105" /> </p>
 
-- 🌱 I’m currently learning **Node.js, Vue.js**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://amitwani.dev](https://amitwani.dev)
 
-- 💬 Ask me about **Angular, Flutter, Spring**
+- 💬 Ask me about **Java, Javascript, Angular, Spring Boot, Flutter**
 
 - 📫 How to reach me **mtwn105@gmail.com**
 
-- ⚡ Fun fact **Developer runs on Chai ❤**
+- ⚡ Fun fact **Developer runs on Chai (Tea) ❤**
 
 ### Languages and Tools:
 
