@@ -37,7 +37,7 @@
 <img alt="Kibana" src="https://img.shields.io/badge/Kibana%20-%23563D7C.svg?&style=for-the-badge&logo=Kibana&logoColor=white"/>
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtwn105&layout=compact&hide=html" alt="mtwn105" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtwn105&layout=compact&langs_count=8&theme=tokyonight" alt="mtwn105" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtwn105&count_private=true&show_icons=true&theme=tokyonight" alt="mtwn105" /></p>
 
