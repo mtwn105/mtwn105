@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://amitwani.dev](https://amitwani.dev)
 
+- 📖 Open source contributor
+
 - 💬 Ask me about **Java, Javascript, Angular, Spring Boot, Flutter**
 
 - 📫 How to reach me **mtwn105@gmail.com**
