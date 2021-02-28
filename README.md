@@ -39,7 +39,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtwn105&layout=compact&hide=html" alt="mtwn105" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtwn105&show_icons=true" alt="mtwn105" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtwn105&count_private=true&show_icons=true&theme=tokyonight" alt="mtwn105" /></p>
 
 <p align="center">
 <a href="https://twitter.com/mtwn105" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mtwn105" height="30" width="30" /></a>
