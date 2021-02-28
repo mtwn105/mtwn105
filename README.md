@@ -29,6 +29,10 @@
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%23117AC9.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="Flutter" src ="https://img.shields.io/badge/Flutter-%234ea94b.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker%20-%2320232a.svg?&style=for-the-badge&logo=Docker&logoColor=%2361DAFB"/>
+<img alt="Openshift" src="https://img.shields.io/badge/Openshift%20-%231572B6.svg?&style=for-the-badge&logo=Openshift&logoColor=white"/>
+<img alt="Kibana" src="https://img.shields.io/badge/Kibana%20-%23563D7C.svg?&style=for-the-badge&logo=Kibana&logoColor=white"/>
 </div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtwn105&layout=compact&hide=html" alt="mtwn105" /></p>
