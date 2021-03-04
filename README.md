@@ -9,7 +9,7 @@
 
 - 📖 Open source contributor
 
-- 💬 Ask me about **Java, Javascript, Angular, Spring Boot, Flutter**
+- 💬 Working on **Java, Javascript, Angular, Spring Boot, Flutter**
 
 - 📫 How to reach me **mtwn105@gmail.com**
 
