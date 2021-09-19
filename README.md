@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtwn105" alt="mtwn105" /> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://amitwani.dev](https://amitwani.dev)
 
 - 📖 Open source contributor
 
-- 💬 Working on **Java, Javascript, Angular, Spring Boot, Flutter**
+- 💬 Working on **Java, Javascript, Angular, Spring Boot, Node.JS**
 
 - 📫 How to reach me **mtwn105@gmail.com**
 
