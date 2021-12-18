@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtwn105" alt="mtwn105" /> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Web 3, Smart Contracts, Blockchain, Eth**
 
 - 👨‍💻 All of my projects are available at [https://amitwani.dev](https://amitwani.dev)
 
 - 📖 Open source contributor
 
-- 💬 Working on **Java, Javascript, Angular, Spring Boot, Node.JS**
+- 💬 Working on **Java, Spring Boot, Node.JS, Javascript, Angular**
 
 - 📫 How to reach me **mtwn105@gmail.com**
 
