@@ -20,7 +20,7 @@
 ### Tech Stack and Tools:
 
 <div class="row">
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<!-- <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -36,7 +36,29 @@
 <img alt="Flutter" src ="https://img.shields.io/badge/Flutter-%234ea94b.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>
 <img alt="Docker" src="https://img.shields.io/badge/Docker%20-%2320232a.svg?&style=for-the-badge&logo=Docker&logoColor=%2361DAFB"/>
 <img alt="Openshift" src="https://img.shields.io/badge/Openshift%20-%231572B6.svg?&style=for-the-badge&logo=Openshift&logoColor=white"/>
-<img alt="Kibana" src="https://img.shields.io/badge/Kibana%20-%23563D7C.svg?&style=for-the-badge&logo=Kibana&logoColor=white"/>
+<img alt="Kibana" src="https://img.shields.io/badge/Kibana%20-%23563D7C.svg?&style=for-the-badge&logo=Kibana&logoColor=white"/> -->
+  
+#### Languages: 
+[![Languages](https://skillicons.dev/icons?i=java,html,css,js,ts,nodejs,py,dart)](https://skillicons.dev)
+
+  #### Frameworks: 
+  <div class="row">
+     <img alt="Angular" src="https://img.shields.io/badge/angular%20-%2320232a.svg?&style=for-the-badge&logo=angular&logoColor=%2361DAFB"/>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img alt="Spring" src="https://img.shields.io/badge/Spring%20-%23F05033.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+    <img alt="Flutter" src ="https://img.shields.io/badge/Flutter-%234ea94b.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>
+  </div>
+  
+   #### Database:
+  [![Languages](https://skillicons.dev/icons?i=mongodb,mysql,redis)](https://skillicons.dev)
+  
+  #### Devops:
+  [![Languages](https://skillicons.dev/icons?i=docker,kubernetes,nginx)](https://skillicons.dev)
+
+  #### Tools:
+  [![Languages](https://skillicons.dev/icons?i=git,vscode,firebase,supabase,wordpress,linux,bash)](https://skillicons.dev)
+  
+  
 </div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtwn105&layout=compact&langs_count=8" alt="mtwn105" /></p>
