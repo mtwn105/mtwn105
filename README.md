@@ -39,24 +39,18 @@
 <img alt="Kibana" src="https://img.shields.io/badge/Kibana%20-%23563D7C.svg?&style=for-the-badge&logo=Kibana&logoColor=white"/> -->
   
 #### Languages: 
-[![Languages](https://skillicons.dev/icons?i=java,html,css,js,ts,nodejs,py,dart)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,html,css,js,ts,nodejs,py,dart&perline=4)](https://skillicons.dev)
 
   #### Frameworks: 
-  <div class="row">
-     <img alt="Angular" src="https://img.shields.io/badge/angular%20-%2320232a.svg?&style=for-the-badge&logo=angular&logoColor=%2361DAFB"/>
-    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="Spring" src="https://img.shields.io/badge/Spring%20-%23F05033.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
-    <img alt="Flutter" src ="https://img.shields.io/badge/Flutter-%234ea94b.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>
-  </div>
-  
+  [![Frameworks](https://skillicons.dev/icons?i=spring,express,bootstrap,scss,angular,flutter&perline=6)](https://skillicons.dev)
    #### Database:
-  [![Languages](https://skillicons.dev/icons?i=mongodb,mysql,redis)](https://skillicons.dev)
+  [![Database](https://skillicons.dev/icons?i=mongodb,mysql,redis)](https://skillicons.dev)
   
   #### Devops:
-  [![Languages](https://skillicons.dev/icons?i=docker,kubernetes,nginx)](https://skillicons.dev)
+  [![Devops](https://skillicons.dev/icons?i=docker,kubernetes,nginx)](https://skillicons.dev)
 
   #### Tools:
-  [![Languages](https://skillicons.dev/icons?i=git,vscode,firebase,supabase,wordpress,linux,bash)](https://skillicons.dev)
+  [![Tools](https://skillicons.dev/icons?i=git,vscode,idea,firebase,supabase,wordpress,linux,bash&perline=4)](https://skillicons.dev)
   
   
 </div>
