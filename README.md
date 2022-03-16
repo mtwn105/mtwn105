@@ -39,18 +39,18 @@
 <img alt="Kibana" src="https://img.shields.io/badge/Kibana%20-%23563D7C.svg?&style=for-the-badge&logo=Kibana&logoColor=white"/> -->
   
 #### Languages: 
-[![Languages](https://skillicons.dev/icons?i=java,html,css,js,ts,nodejs,py,dart&perline=4)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,ts,nodejs,py,dart)](https://skillicons.dev)
 
   #### Frameworks: 
-  [![Frameworks](https://skillicons.dev/icons?i=spring,express,bootstrap,scss,angular,flutter&perline=6)](https://skillicons.dev)
+  [![Frameworks](https://skillicons.dev/icons?i=spring,express,bootstrap,sass,angular,flutter&perline=6)](https://skillicons.dev)
    #### Database:
   [![Database](https://skillicons.dev/icons?i=mongodb,mysql,redis)](https://skillicons.dev)
   
   #### Devops:
-  [![Devops](https://skillicons.dev/icons?i=docker,kubernetes,nginx)](https://skillicons.dev)
-
+  [![Devops](https://skillicons.dev/icons?i=docker,kubernetes,openshift,nginx)](https://skillicons.dev)
+  
   #### Tools:
-  [![Tools](https://skillicons.dev/icons?i=git,vscode,idea,firebase,supabase,wordpress,linux,bash&perline=4)](https://skillicons.dev)
+  [![Tools](https://skillicons.dev/icons?i=git,vscode,idea,firebase,supabase,stackoverflow,wordpress,linux,bash&perline=4)](https://skillicons.dev)
   
   
 </div>
