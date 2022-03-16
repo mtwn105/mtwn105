@@ -50,7 +50,7 @@
   [![Devops](https://skillicons.dev/icons?i=docker,kubernetes,openshift,nginx)](https://skillicons.dev)
   
   #### Tools:
-  [![Tools](https://skillicons.dev/icons?i=git,vscode,idea,firebase,supabase,stackoverflow,wordpress,linux,bash&perline=4)](https://skillicons.dev)
+  [![Tools](https://skillicons.dev/icons?i=git,vscode,idea,firebase,supabase,stackoverflow,wordpress,linux,bash)](https://skillicons.dev)
   
   
 </div>
