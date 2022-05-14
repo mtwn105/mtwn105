@@ -47,10 +47,13 @@
   [![Database](https://skillicons.dev/icons?i=mongodb,mysql,redis)](https://skillicons.dev)
   
   #### Devops:
-  [![Devops](https://skillicons.dev/icons?i=docker,kubernetes,openshift,nginx)](https://skillicons.dev)
+  [![Devops](https://skillicons.dev/icons?i=docker,kubernetes,nginx)](https://skillicons.dev)
+  
+  #### Cloud:
+  [![Cloud](https://skillicons.dev/icons?i=azure,heroku,openshift)](https://skillicons.dev)
   
   #### Tools:
-  [![Tools](https://skillicons.dev/icons?i=git,vscode,idea,firebase,supabase,stackoverflow,wordpress,linux,bash)](https://skillicons.dev)
+  [![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,firebase,supabase,stackoverflow,wordpress,linux,bash)](https://skillicons.dev)
   
   
 </div>
