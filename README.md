@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://amitwani.dev](https://amitwani.dev)
 
+- ✍️ My blog - [https://blog.amitwani.dev](https://blog.amitwani.dev)
+
 - #️⃣ You can find my social media here [https://amitwani.bio.link](https://amitwani.bio.link)
 
 - 📖 Open source contributor
@@ -39,12 +41,15 @@
 <img alt="Kibana" src="https://img.shields.io/badge/Kibana%20-%23563D7C.svg?&style=for-the-badge&logo=Kibana&logoColor=white"/> -->
   
 #### Languages: 
-[![Languages](https://skillicons.dev/icons?i=c,cpp,java,html,css,js,ts,nodejs,py,dart)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,html,css,js,ts,nodejs,py,dart)](https://skillicons.dev)
 
   #### Frameworks: 
-  [![Frameworks](https://skillicons.dev/icons?i=spring,express,bootstrap,sass,angular,flutter&perline=6)](https://skillicons.dev)
+  [![Frameworks](https://skillicons.dev/icons?i=spring,express,prisma,bootstrap,sass,tailwind,angular,flutter&perline=6)](https://skillicons.dev)
    #### Database:
-  [![Database](https://skillicons.dev/icons?i=mongodb,mysql,redis)](https://skillicons.dev)
+  [![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,elasticsearch)](https://skillicons.dev)
+
+#### Queues:
+  [![Database](https://skillicons.dev/icons?i=rabbitmq,kafka,redis)](https://skillicons.dev)
   
   #### Devops:
   [![Devops](https://skillicons.dev/icons?i=docker,kubernetes,nginx)](https://skillicons.dev)
