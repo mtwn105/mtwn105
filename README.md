@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Amit Wani</h1>
-<h3 align="center">A passionate full stack developer from India 👩‍💻</h3>
+<h3 align="center">A Passionate Software Engineer from India 👩‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtwn105" alt="mtwn105" /> </p>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **AgenticAI**
 
-- 👨‍💻 All of my projects are available at [https://amitwani.dev](https://amitwani.dev)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/amitwani](https://linktr.ee/amitwani)
 
 - ✍️ My blog - [https://blog.amitwani.dev](https://blog.amitwani.dev)
 
-- #️⃣ You can find my social media here [https://amitwani.bio.link](https://amitwani.bio.link)
+- #️⃣ You can find my social media here [https://linktr.ee/amitwani](https://linktr.ee/amitwani)
 
 - 📖 Open source contributor
 
-- 💬 Working on **Java, Spring Boot, Node.JS, Javascript, Angular, Docker, Kubernetes**
+- 💬 Working on **AI, Java, Spring Boot, Node.JS, Javascript, Angular, Docker, Kubernetes**
 
 - 📫 How to reach me **mtwn105@gmail.com**
 
