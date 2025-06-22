@@ -23,7 +23,7 @@ jobs:
           feed_list: "https://dev.to/feed/mtwn105"
           max_post_count: 5
           template: "- 🚀 **[$title]($url)**<br/>📅 *Published on $date* | ❤️ $reactions reactions | 💬 $comments comments"
-          date_format: "mmm dd, yyyy"
+          date_format: "mm ddd yyyy"
           custom_tags: "reactions,comments"
 
       # Update Medium blog posts
@@ -34,7 +34,7 @@ jobs:
           feed_list: "https://medium.com/feed/@mtwn105"
           max_post_count: 5
           template: "- 📚 **[$title]($url)**<br/>📅 *Published on $date* | 👏 $claps claps | 📖 $readTime min read"
-          date_format: "mmm dd, yyyy"
+          date_format: "mm ddd yyyy"
           custom_tags: "claps,readTime"
 
       # Update Personal blog posts
@@ -42,10 +42,10 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "BLOG-POST-LIST:blog.amitwani.dev"
-          feed_list: "https://blog.amitwani.dev/rss.xml,https://blog.amitwani.dev/feed.xml,https://blog.amitwani.dev/feed,https://blog.amitwani.dev/atom.xml"
+          feed_list: "https://blog.amitwani.dev/rss.xml"
           max_post_count: 5
           template: "- 🌟 **[$title]($url)**<br/>📅 *Published on $date* | 🏷️ $categories | ⏱️ $readTime min read"
-          date_format: "mmm dd, yyyy"
+          date_format: "mm ddd yyyy"
           custom_tags: "categories,readTime"
 
       # Update YouTube videos
@@ -53,7 +53,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "YOUTUBE-BLOG-LIST"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?user=AmitWani"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCPV2VEOaixGCyYIthfjtMOg"
           max_post_count: 5
           template: "- 🎥 **[$title]($url)**<br/>📅 *Uploaded on $date* | 📺 Watch now!"
-          date_format: "mmm dd, yyyy"
+          date_format: "mm ddd yyyy"
