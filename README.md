@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtwn105" alt="mtwn105" /> </p>
 
-- 🌱 I’m currently learning **AgenticAI**
+- 🌱 I'm currently learning **Agentic AI**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/amitwani](https://linktr.ee/amitwani)
 
@@ -22,45 +22,71 @@
 ### Tech Stack and Tools:
 
 <div class="row">
-<!-- <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="Angular" src="https://img.shields.io/badge/angular%20-%2320232a.svg?&style=for-the-badge&logo=angular&logoColor=%2361DAFB"/>
-<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/java%20-%2314354C.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="Spring" src="https://img.shields.io/badge/Spring%20-%23F05033.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%23117AC9.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img alt="Flutter" src ="https://img.shields.io/badge/Flutter-%234ea94b.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>
-<img alt="Docker" src="https://img.shields.io/badge/Docker%20-%2320232a.svg?&style=for-the-badge&logo=Docker&logoColor=%2361DAFB"/>
-<img alt="Openshift" src="https://img.shields.io/badge/Openshift%20-%231572B6.svg?&style=for-the-badge&logo=Openshift&logoColor=white"/>
-<img alt="Kibana" src="https://img.shields.io/badge/Kibana%20-%23563D7C.svg?&style=for-the-badge&logo=Kibana&logoColor=white"/> -->
-  
-#### Languages: 
-[![Languages](https://skillicons.dev/icons?i=java,html,css,js,ts,nodejs,py,dart)](https://skillicons.dev)
 
-  #### Frameworks: 
-  [![Frameworks](https://skillicons.dev/icons?i=spring,express,prisma,bootstrap,sass,tailwind,angular,flutter&perline=6)](https://skillicons.dev)
-   #### Database:
-  [![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,elasticsearch)](https://skillicons.dev)
+#### Languages & Core Technologies:
 
-#### Queues:
-  [![Database](https://skillicons.dev/icons?i=rabbitmq,kafka,redis)](https://skillicons.dev)
-  
-  #### Devops:
-  [![Devops](https://skillicons.dev/icons?i=docker,kubernetes,nginx)](https://skillicons.dev)
-  
-  #### Cloud:
-  [![Cloud](https://skillicons.dev/icons?i=azure,heroku,openshift)](https://skillicons.dev)
-  
-  #### Tools:
-  [![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,firebase,supabase,stackoverflow,wordpress,linux,bash)](https://skillicons.dev)
-  
-  
+![Languages](https://skills.syvixor.com/api/icons?i=java,js,ts,nodejs,py,html,css,dart,markdown,yaml)
+
+#### Frameworks & Libraries:
+
+![Frameworks](https://skills.syvixor.com/api/icons?i=spring,express,nextjs,angular,flutter,bootstrap,bulma,fastapi,rxjs,axios)
+
+#### AI & ML Tools:
+
+![AI Tools](https://skills.syvixor.com/api/icons?i=githubcopilot,microsoftcopilot,chatgpt,claudeai,langchain,ollama,perplexity,googlegemini,groq,grok)
+
+#### UI Components & Styling:
+
+![UI](https://skills.syvixor.com/api/icons?i=sass,tailwind,radixui,shadcnui,postcss,prettier)
+
+#### Databases & Storage:
+
+![Database](https://skills.syvixor.com/api/icons?i=mongodb,mysql,postgres,redis,oracle,prisma,drizzle,sqlalchemy,hibernate)
+
+#### Cloud & Infrastructure:
+
+![Cloud](https://skills.syvixor.com/api/icons?i=aws,gcp,azure,heroku,netlify,cloudflare,digitalocean,flyio)
+
+#### DevOps & CI/CD:
+
+![Devops](https://skills.syvixor.com/api/icons?i=docker,kubernetes,nginx,gitlab,prometheus,grafana)
+
+#### Development Tools:
+
+![Dev Tools](https://skills.syvixor.com/api/icons?i=git,github,vscode,idea,androidstudio,sublime,notepadplusplus,postman)
+
+#### Package Managers & Build Tools:
+
+![Build Tools](https://skills.syvixor.com/api/icons?i=npm,pnpm,bun,maven)
+
+#### Testing & Quality:
+
+![Testing](https://skills.syvixor.com/api/icons?i=jest,playwright,puppeteer,junit5,eslint)
+
+#### Monitoring & Observability:
+
+![Monitoring](https://skills.syvixor.com/api/icons?i=elasticsearch,opentelemetry,grafana,umami)
+
+#### Documentation & Collaboration:
+
+![Collaboration](https://skills.syvixor.com/api/icons?i=notion,jira,swagger,jupyter,googlecolaboratory)
+
+#### Development Environment:
+
+![Environment](https://skills.syvixor.com/api/icons?i=linux,bash,powershell,chrome,edge,ngrok)
+
+#### Security & Authentication:
+
+![Security](https://skills.syvixor.com/api/icons?i=jwt,betterauth,protonvpn)
+
+#### Real-time & Communication:
+
+![Communication](https://skills.syvixor.com/api/icons?i=socketio,websocket,grpc,twilio)
+
+#### Platforms & Services:
+
+![Platforms](https://skills.syvixor.com/api/icons?i=firebase,supabase,stackblitz,bolt,flutterflow,canva,dropbox,filezilla)
+
 </div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtwn105&layout=compact&langs_count=8" alt="mtwn105" /></p>
