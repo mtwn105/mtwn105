@@ -176,19 +176,25 @@ const amitWani = {
 ### 🌐 **Personal Blog** - [blog.amitwani.dev](https://blog.amitwani.dev)
 
 <!-- BLOG-POST-LIST:START:blog.amitwani.dev -->
+
 <!-- BLOG-POST-LIST:END:blog.amitwani.dev -->
 
 ### 📰 **Dev.to Articles** - [dev.to/mtwn105](https://dev.to/mtwn105)
 
-<!-- DEVTO-BLOG-LIST:START -->- 📝 [DecipherIt: Building a NotebookLM-Inspired AI Research Assistant powered by Bright Data](https://dev.to/mtwn105/decipherit-building-a-notebooklm-inspired-ai-research-assistant-powered-by-bright-data-ckf) - *Sun May 25 2025 10:13 PM*- 📝 [Vibe Coded AI Stock Analyst with Amazon Q in 1 Hour!](https://dev.to/mtwn105/vibe-coded-ai-stock-analyst-with-amazon-q-in-1-hour-20hf) - *Mon May 12 2025 6:13 AM*- 📝 [AudioIntel - Transform Audio into Actionable Intelligence](https://dev.to/mtwn105/audiointel-transform-audio-into-actionable-intelligence-nd8) - *Mon Nov 25 2024 4:29 AM*- 📝 [MailTales - Make Emails Fun Again!](https://dev.to/mtwn105/mailtales-make-emails-fun-again-5d9l) - *Mon Sep 02 2024 5:56 AM*- 📝 [Redis Performance Testing](https://dev.to/mtwn105/redis-performance-testing-1e57) - *Sat Dec 23 2023 2:18 PM*<!-- DEVTO-BLOG-LIST:END -->
+<!-- DEVTO-BLOG-LIST:START -->
+
+<!-- DEVTO-BLOG-LIST:END -->
 
 ### 📖 **Medium Articles** - [medium.com/@mtwn105](https://medium.com/@mtwn105)
 
-<!-- MEDIUM-BLOG-LIST:START -->- 📖 [Built an AI Agent for Zerodha Using Kite &amp; MCP](https://medium.com/@mtwn105/built-an-ai-agent-for-zerodha-using-kite-mcp-d62ef89771dd?source=rss-b2982a15155e------2) - *Wed Apr 16 2025 4:45 AM*- 📖 [Building an MCP Server with Spring Boot and Java](https://medium.com/@mtwn105/building-an-mcp-server-with-spring-boot-and-java-beff0cfe591a?source=rss-b2982a15155e------2) - *Sat Mar 22 2025 6:38 AM*- 📖 [How to Self-Host Umami: A Step-by-Step Guide to Privacy-Focused Web Analytics &lpar;With Docker Setup&rpar;](https://medium.com/@mtwn105/how-to-self-host-umami-a-step-by-step-guide-to-privacy-focused-web-analytics-with-docker-setup-239df47fe44a?source=rss-b2982a15155e------2) - *Sun Mar 16 2025 3:29 PM*- 📖 [Explore Your GitHub Journey with GitHub Wrapped](https://medium.com/@mtwn105/explore-your-github-journey-with-github-wrapped-70a0b6a6503c?source=rss-b2982a15155e------2) - *Wed Feb 12 2025 3:46 AM*- 📖 [Redis Performance Testing — Using Redis Benchmark](https://medium.com/@mtwn105/redis-performance-testing-using-redis-benchmark-160cb0410546?source=rss-b2982a15155e------2) - *Sun Dec 22 2024 8:14 AM*<!-- MEDIUM-BLOG-LIST:END -->
+<!-- MEDIUM-BLOG-LIST:START -->
+
+<!-- MEDIUM-BLOG-LIST:END -->
 
 ### 📺 **YouTube Videos** - [youtube.com/@AmitWani](https://www.youtube.com/@AmitWani)
 
 <!-- YOUTUBE-BLOG-LIST:START -->
+
 <!-- YOUTUBE-BLOG-LIST:END -->
 
 ---
