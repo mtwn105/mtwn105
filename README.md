@@ -175,36 +175,32 @@ const amitWani = {
 
 ### 📖 **Medium Articles** - [medium.com/@mtwn105](https://medium.com/@mtwn105)
 
-<!-- MEDIUM-BLOG-LIST:START -->- 📚 **[Built an AI Agent for Zerodha Using Kite &amp; MCP](https://medium.com/@mtwn105/built-an-ai-agent-for-zerodha-using-kite-mcp-d62ef89771dd?source=rss-b2982a15155e------2)**  
-📅 *Published on Apr 16, 2025*- 📚 **[Building an MCP Server with Spring Boot and Java](https://medium.com/@mtwn105/building-an-mcp-server-with-spring-boot-and-java-beff0cfe591a?source=rss-b2982a15155e------2)**  
-📅 *Published on Mar 22, 2025*- 📚 **[How to Self-Host Umami: A Step-by-Step Guide to Privacy-Focused Web Analytics &lpar;With Docker Setup&rpar;](https://medium.com/@mtwn105/how-to-self-host-umami-a-step-by-step-guide-to-privacy-focused-web-analytics-with-docker-setup-239df47fe44a?source=rss-b2982a15155e------2)**  
-📅 *Published on Mar 16, 2025*- 📚 **[Explore Your GitHub Journey with GitHub Wrapped](https://medium.com/@mtwn105/explore-your-github-journey-with-github-wrapped-70a0b6a6503c?source=rss-b2982a15155e------2)**  
-📅 *Published on Feb 12, 2025*- 📚 **[Redis Performance Testing — Using Redis Benchmark](https://medium.com/@mtwn105/redis-performance-testing-using-redis-benchmark-160cb0410546?source=rss-b2982a15155e------2)**  
-📅 *Published on Dec 22, 2024*<!-- MEDIUM-BLOG-LIST:END -->
+<table>
+  <tr><th>Title</th><th>Date</th></tr>
+  <!-- MEDIUM-BLOG-LIST:START -->
 
-<!-- ### 🌐 **Personal Blog** - [blog.amitwani.dev](https://blog.amitwani.dev) -->
-
-<!-- BLOG-POST-LIST:START:blog.amitwani.dev -->
-
-<!-- BLOG-POST-LIST:END:blog.amitwani.dev -->
+  <!-- MEDIUM-BLOG-LIST:END -->
+</table>
 
 ### 📰 **Dev.to Articles** - [dev.to/mtwn105](https://dev.to/mtwn105)
 
-<!-- DEVTO-BLOG-LIST:START -->- 🚀 **[DecipherIt: Building a NotebookLM-Inspired AI Research Assistant powered by Bright Data](https://dev.to/mtwn105/decipherit-building-a-notebooklm-inspired-ai-research-assistant-powered-by-bright-data-ckf)**  
-📅 *Published on May 25, 2025*- 🚀 **[Vibe Coded AI Stock Analyst with Amazon Q in 1 Hour!](https://dev.to/mtwn105/vibe-coded-ai-stock-analyst-with-amazon-q-in-1-hour-20hf)**  
-📅 *Published on May 12, 2025*- 🚀 **[AudioIntel - Transform Audio into Actionable Intelligence](https://dev.to/mtwn105/audiointel-transform-audio-into-actionable-intelligence-nd8)**  
-📅 *Published on Nov 25, 2024*- 🚀 **[MailTales - Make Emails Fun Again!](https://dev.to/mtwn105/mailtales-make-emails-fun-again-5d9l)**  
-📅 *Published on Sep 02, 2024*- 🚀 **[Redis Performance Testing](https://dev.to/mtwn105/redis-performance-testing-1e57)**  
-📅 *Published on Dec 23, 2023*<!-- DEVTO-BLOG-LIST:END -->
+<table>
+  <tr><th>Title</th><th>Date</th></tr>
+  <!-- DEVTO-BLOG-LIST:START -->
+
+  <!-- DEVTO-BLOG-LIST:END -->
+
+</table>
 
 ### 📺 **YouTube Videos** - [youtube.com/@AmitWani](https://www.youtube.com/@AmitWani)
 
-<!-- YOUTUBE-BLOG-LIST:START -->- 🎥 **[TripCraft AI - Your Journey, Perfectly Crafted with Intelligence](https://www.youtube.com/watch?v=eTll7EdQyY8)**  
-📅 *Uploaded on Jun 01, 2025*- 🎥 **[🎓 I Built the Research Assistant Every Student Wishes They Had 🤖 - Powered by Bright Data &amp; CrewAI ⚡](https://www.youtube.com/watch?v=CcfhiE4h9WY)**  
-📅 *Uploaded on May 25, 2025*- 🎥 **[Vibe Coded AI Stock Analyst with Amazon Q in 1 Hour!](https://www.youtube.com/watch?v=FP5kS3BJrLE)**  
-📅 *Uploaded on May 12, 2025*- 🎥 **[Meet My Zerodha AI Agent | Built with Kite API + MCP Server 🤖📈](https://www.youtube.com/watch?v=NFYPyTkV-vo)**  
-📅 *Uploaded on Apr 16, 2025*- 🎥 **[GitHub Wrapped 2024 – Your Year in Code! — Your GitHub journey with a personalized year in code](https://www.youtube.com/watch?v=zVAdTtqjmQo)**  
-📅 *Uploaded on Dec 21, 2024*<!-- YOUTUBE-BLOG-LIST:END -->
+<table>
+  <tr><th>Video</th><th>Title & Date</th></tr>
+  <!-- YOUTUBE-BLOG-LIST:START -->
+
+  <!-- YOUTUBE-BLOG-LIST:END -->
+
+</table>
 
 ---
 
