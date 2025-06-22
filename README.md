@@ -175,9 +175,12 @@ const amitWani = {
 
 ### 📖 **Medium Articles** - [medium.com/@mtwn105](https://medium.com/@mtwn105)
 
-<!-- MEDIUM-BLOG-LIST:START -->
-
-<!-- MEDIUM-BLOG-LIST:END -->
+<!-- MEDIUM-BLOG-LIST:START -->- 📚 **[Built an AI Agent for Zerodha Using Kite &amp; MCP](https://medium.com/@mtwn105/built-an-ai-agent-for-zerodha-using-kite-mcp-d62ef89771dd?source=rss-b2982a15155e------2)**  
+📅 *Published on Apr 16, 2025*- 📚 **[Building an MCP Server with Spring Boot and Java](https://medium.com/@mtwn105/building-an-mcp-server-with-spring-boot-and-java-beff0cfe591a?source=rss-b2982a15155e------2)**  
+📅 *Published on Mar 22, 2025*- 📚 **[How to Self-Host Umami: A Step-by-Step Guide to Privacy-Focused Web Analytics &lpar;With Docker Setup&rpar;](https://medium.com/@mtwn105/how-to-self-host-umami-a-step-by-step-guide-to-privacy-focused-web-analytics-with-docker-setup-239df47fe44a?source=rss-b2982a15155e------2)**  
+📅 *Published on Mar 16, 2025*- 📚 **[Explore Your GitHub Journey with GitHub Wrapped](https://medium.com/@mtwn105/explore-your-github-journey-with-github-wrapped-70a0b6a6503c?source=rss-b2982a15155e------2)**  
+📅 *Published on Feb 12, 2025*- 📚 **[Redis Performance Testing — Using Redis Benchmark](https://medium.com/@mtwn105/redis-performance-testing-using-redis-benchmark-160cb0410546?source=rss-b2982a15155e------2)**  
+📅 *Published on Dec 22, 2024*<!-- MEDIUM-BLOG-LIST:END -->
 
 <!-- ### 🌐 **Personal Blog** - [blog.amitwani.dev](https://blog.amitwani.dev) -->
 
