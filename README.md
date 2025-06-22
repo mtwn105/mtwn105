@@ -199,9 +199,12 @@ const amitWani = {
 
 ### 📺 **YouTube Videos** - [youtube.com/@AmitWani](https://www.youtube.com/@AmitWani)
 
-<!-- YOUTUBE-BLOG-LIST:START -->
-
-<!-- YOUTUBE-BLOG-LIST:END -->
+<!-- YOUTUBE-BLOG-LIST:START -->- 🎥 **[TripCraft AI - Your Journey, Perfectly Crafted with Intelligence](https://www.youtube.com/watch?v=eTll7EdQyY8)**  
+📅 *Uploaded on Jun 01, 2025*- 🎥 **[🎓 I Built the Research Assistant Every Student Wishes They Had 🤖 - Powered by Bright Data &amp; CrewAI ⚡](https://www.youtube.com/watch?v=CcfhiE4h9WY)**  
+📅 *Uploaded on May 25, 2025*- 🎥 **[Vibe Coded AI Stock Analyst with Amazon Q in 1 Hour!](https://www.youtube.com/watch?v=FP5kS3BJrLE)**  
+📅 *Uploaded on May 12, 2025*- 🎥 **[Meet My Zerodha AI Agent | Built with Kite API + MCP Server 🤖📈](https://www.youtube.com/watch?v=NFYPyTkV-vo)**  
+📅 *Uploaded on Apr 16, 2025*- 🎥 **[GitHub Wrapped 2024 – Your Year in Code! — Your GitHub journey with a personalized year in code](https://www.youtube.com/watch?v=zVAdTtqjmQo)**  
+📅 *Uploaded on Dec 21, 2024*<!-- YOUTUBE-BLOG-LIST:END -->
 
 ---
 
