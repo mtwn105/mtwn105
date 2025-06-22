@@ -181,9 +181,7 @@ const amitWani = {
 
 ### 📰 **Dev.to Articles** - [dev.to/mtwn105](https://dev.to/mtwn105)
 
-<!-- DEVTO-BLOG-LIST:START -->
-
-<!-- DEVTO-BLOG-LIST:END -->
+<!-- DEVTO-BLOG-LIST:START -->- 🚀 **[DecipherIt: Building a NotebookLM-Inspired AI Research Assistant powered by Bright Data](https://dev.to/mtwn105/decipherit-building-a-notebooklm-inspired-ai-research-assistant-powered-by-bright-data-ckf)**<br/>📅 *Published on 05 Sun 2025* | ❤️ $reactions reactions | 💬 $comments comments- 🚀 **[Vibe Coded AI Stock Analyst with Amazon Q in 1 Hour!](https://dev.to/mtwn105/vibe-coded-ai-stock-analyst-with-amazon-q-in-1-hour-20hf)**<br/>📅 *Published on 05 Mon 2025* | ❤️ $reactions reactions | 💬 $comments comments- 🚀 **[AudioIntel - Transform Audio into Actionable Intelligence](https://dev.to/mtwn105/audiointel-transform-audio-into-actionable-intelligence-nd8)**<br/>📅 *Published on 11 Mon 2024* | ❤️ $reactions reactions | 💬 $comments comments- 🚀 **[MailTales - Make Emails Fun Again!](https://dev.to/mtwn105/mailtales-make-emails-fun-again-5d9l)**<br/>📅 *Published on 09 Mon 2024* | ❤️ $reactions reactions | 💬 $comments comments- 🚀 **[Redis Performance Testing](https://dev.to/mtwn105/redis-performance-testing-1e57)**<br/>📅 *Published on 12 Sat 2023* | ❤️ $reactions reactions | 💬 $comments comments<!-- DEVTO-BLOG-LIST:END -->
 
 ### 📖 **Medium Articles** - [medium.com/@mtwn105](https://medium.com/@mtwn105)
 
