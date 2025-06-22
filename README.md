@@ -57,8 +57,6 @@ const amitWani = {
 
 - 🤖 **Agentic AI** & Machine Learning
 - ☁️ **Advanced AWS Services**
-- 🔧 **Kubernetes & DevOps**
-- 📊 **Data Engineering**
 
 ### 🎯 **2025 Goals**
 
@@ -71,8 +69,7 @@ const amitWani = {
 
 ### 🏆 **Achievements**
 
-- 🏆 **Hackathon Winner & Top Performer**
-- 🥇 **Coding Competition Finalist**
+- 🏆 **Multiple Hackathons Winner & Runner Up**
 - 📚 **Technical Writer & Blogger**
 - 🌟 **Open Source Contributor**
 
