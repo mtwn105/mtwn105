@@ -192,9 +192,7 @@ const amitWani = {
 
 <table>
   <tr><th>Video</th><th>Title & Date</th></tr>
-  <!-- YOUTUBE-BLOG-LIST:START -->
-
-  <!-- YOUTUBE-BLOG-LIST:END -->
+  <!-- YOUTUBE-BLOG-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=eTll7EdQyY8"><img width="140px" src="http://img.youtube.com/vi/eTll7EdQyY8/maxresdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=eTll7EdQyY8">TripCraft AI - Your Journey, Perfectly Crafted with Intelligence</a><br/>Jun 01, 2025</td></tr><tr><td><a href="https://www.youtube.com/watch?v=CcfhiE4h9WY"><img width="140px" src="http://img.youtube.com/vi/CcfhiE4h9WY/maxresdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=CcfhiE4h9WY">🎓 I Built the Research Assistant Every Student Wishes They Had 🤖 - Powered by Bright Data &amp; CrewAI ⚡</a><br/>May 25, 2025</td></tr><tr><td><a href="https://www.youtube.com/watch?v=FP5kS3BJrLE"><img width="140px" src="http://img.youtube.com/vi/FP5kS3BJrLE/maxresdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=FP5kS3BJrLE">Vibe Coded AI Stock Analyst with Amazon Q in 1 Hour!</a><br/>May 12, 2025</td></tr><tr><td><a href="https://www.youtube.com/watch?v=NFYPyTkV-vo"><img width="140px" src="http://img.youtube.com/vi/NFYPyTkV-vo/maxresdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=NFYPyTkV-vo">Meet My Zerodha AI Agent | Built with Kite API + MCP Server 🤖📈</a><br/>Apr 16, 2025</td></tr><tr><td><a href="https://www.youtube.com/watch?v=zVAdTtqjmQo"><img width="140px" src="http://img.youtube.com/vi/zVAdTtqjmQo/maxresdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=zVAdTtqjmQo">GitHub Wrapped 2024 – Your Year in Code! — Your GitHub journey with a personalized year in code</a><br/>Dec 21, 2024</td></tr><!-- YOUTUBE-BLOG-LIST:END -->
 
 </table>
 
