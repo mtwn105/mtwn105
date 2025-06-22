@@ -22,9 +22,8 @@ jobs:
           comment_tag_name: "DEVTO-BLOG-LIST"
           feed_list: "https://dev.to/feed/mtwn105"
           max_post_count: 5
-          template: "- 🚀 **[$title]($url)**<br/>📅 *Published on $date* | ❤️ $reactions reactions | 💬 $comments comments"
-          date_format: "mm ddd yyyy"
-          custom_tags: "reactions,comments"
+          template: "- 🚀 **[$title]($url)**  \n📅 *Published on $date*"
+          date_format: "mmm dd, yyyy"
 
       # Update Medium blog posts
       - name: Update README with Medium posts
@@ -33,9 +32,8 @@ jobs:
           comment_tag_name: "MEDIUM-BLOG-LIST"
           feed_list: "https://medium.com/feed/@mtwn105"
           max_post_count: 5
-          template: "- 📚 **[$title]($url)**<br/>📅 *Published on $date* | 👏 $claps claps | 📖 $readTime min read"
-          date_format: "mm ddd yyyy"
-          custom_tags: "claps,readTime"
+          template: "- 📚 **[$title]($url)**  \n📅 *Published on $date*"
+          date_format: "mmm dd, yyyy"
 
       # # Update Personal blog posts
       # - name: Update README with Personal blog posts
@@ -55,5 +53,5 @@ jobs:
           comment_tag_name: "YOUTUBE-BLOG-LIST"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCPV2VEOaixGCyYIthfjtMOg"
           max_post_count: 5
-          template: "- 🎥 **[$title]($url)**<br/>📅 *Uploaded on $date* | 📺 Watch now!"
-          date_format: "mm ddd yyyy"
+          template: "- 🎥 **[$title]($url)**  \n📅 *Uploaded on $date*"
+          date_format: "mmm dd, yyyy"
