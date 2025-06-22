@@ -186,9 +186,7 @@ const amitWani = {
 
 <table>
   <tr><th>Title</th><th>Date</th></tr>
-  <!-- DEVTO-BLOG-LIST:START -->
-
-  <!-- DEVTO-BLOG-LIST:END -->
+  <!-- DEVTO-BLOG-LIST:START --><tr><td>🚀 <a href="https://dev.to/mtwn105/decipherit-building-a-notebooklm-inspired-ai-research-assistant-powered-by-bright-data-ckf">DecipherIt: Building a NotebookLM-Inspired AI Research Assistant powered by Bright Data</a></td><td>May 25, 2025</td></tr><tr><td>🚀 <a href="https://dev.to/mtwn105/vibe-coded-ai-stock-analyst-with-amazon-q-in-1-hour-20hf">Vibe Coded AI Stock Analyst with Amazon Q in 1 Hour!</a></td><td>May 12, 2025</td></tr><tr><td>🚀 <a href="https://dev.to/mtwn105/audiointel-transform-audio-into-actionable-intelligence-nd8">AudioIntel - Transform Audio into Actionable Intelligence</a></td><td>Nov 25, 2024</td></tr><tr><td>🚀 <a href="https://dev.to/mtwn105/mailtales-make-emails-fun-again-5d9l">MailTales - Make Emails Fun Again!</a></td><td>Sep 02, 2024</td></tr><tr><td>🚀 <a href="https://dev.to/mtwn105/redis-performance-testing-1e57">Redis Performance Testing</a></td><td>Dec 23, 2023</td></tr><!-- DEVTO-BLOG-LIST:END -->
 
 </table>
 
