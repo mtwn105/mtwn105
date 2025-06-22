@@ -177,9 +177,7 @@ const amitWani = {
 
 <table>
   <tr><th>Title</th><th>Date</th></tr>
-  <!-- MEDIUM-BLOG-LIST:START -->
-
-  <!-- MEDIUM-BLOG-LIST:END -->
+  <!-- MEDIUM-BLOG-LIST:START --><tr><td>📚 <a href="https://medium.com/@mtwn105/built-an-ai-agent-for-zerodha-using-kite-mcp-d62ef89771dd?source=rss-b2982a15155e------2">Built an AI Agent for Zerodha Using Kite &amp; MCP</a></td><td>Apr 16, 2025</td></tr><tr><td>📚 <a href="https://medium.com/@mtwn105/building-an-mcp-server-with-spring-boot-and-java-beff0cfe591a?source=rss-b2982a15155e------2">Building an MCP Server with Spring Boot and Java</a></td><td>Mar 22, 2025</td></tr><tr><td>📚 <a href="https://medium.com/@mtwn105/how-to-self-host-umami-a-step-by-step-guide-to-privacy-focused-web-analytics-with-docker-setup-239df47fe44a?source=rss-b2982a15155e------2">How to Self-Host Umami: A Step-by-Step Guide to Privacy-Focused Web Analytics &lpar;With Docker Setup&rpar;</a></td><td>Mar 16, 2025</td></tr><tr><td>📚 <a href="https://medium.com/@mtwn105/explore-your-github-journey-with-github-wrapped-70a0b6a6503c?source=rss-b2982a15155e------2">Explore Your GitHub Journey with GitHub Wrapped</a></td><td>Feb 12, 2025</td></tr><tr><td>📚 <a href="https://medium.com/@mtwn105/redis-performance-testing-using-redis-benchmark-160cb0410546?source=rss-b2982a15155e------2">Redis Performance Testing — Using Redis Benchmark</a></td><td>Dec 22, 2024</td></tr><!-- MEDIUM-BLOG-LIST:END -->
 </table>
 
 ### 📰 **Dev.to Articles** - [dev.to/mtwn105](https://dev.to/mtwn105)
