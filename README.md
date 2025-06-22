@@ -173,7 +173,13 @@ const amitWani = {
 
 </div>
 
-### 🌐 **Personal Blog** - [blog.amitwani.dev](https://blog.amitwani.dev)
+### 📖 **Medium Articles** - [medium.com/@mtwn105](https://medium.com/@mtwn105)
+
+<!-- MEDIUM-BLOG-LIST:START -->
+
+<!-- MEDIUM-BLOG-LIST:END -->
+
+<!-- ### 🌐 **Personal Blog** - [blog.amitwani.dev](https://blog.amitwani.dev) -->
 
 <!-- BLOG-POST-LIST:START:blog.amitwani.dev -->
 
@@ -184,12 +190,6 @@ const amitWani = {
 <!-- DEVTO-BLOG-LIST:START -->
 
 <!-- DEVTO-BLOG-LIST:END -->
-
-### 📖 **Medium Articles** - [medium.com/@mtwn105](https://medium.com/@mtwn105)
-
-<!-- MEDIUM-BLOG-LIST:START -->
-
-<!-- MEDIUM-BLOG-LIST:END -->
 
 ### 📺 **YouTube Videos** - [youtube.com/@AmitWani](https://www.youtube.com/@AmitWani)
 

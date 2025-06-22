@@ -37,16 +37,16 @@ jobs:
           date_format: "mm ddd yyyy"
           custom_tags: "claps,readTime"
 
-      # Update Personal blog posts
-      - name: Update README with Personal blog posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          comment_tag_name: "BLOG-POST-LIST:blog.amitwani.dev"
-          feed_list: "https://blog.amitwani.dev/rss.xml"
-          max_post_count: 5
-          template: "- 🌟 **[$title]($url)**<br/>📅 *Published on $date* | 🏷️ $categories | ⏱️ $readTime min read"
-          date_format: "mm ddd yyyy"
-          custom_tags: "categories,readTime"
+      # # Update Personal blog posts
+      # - name: Update README with Personal blog posts
+      #   uses: gautamkrishnar/blog-post-workflow@v1
+      #   with:
+      #     comment_tag_name: "BLOG-POST-LIST:blog.amitwani.dev"
+      #     feed_list: "https://blog.amitwani.dev/rss.xml"
+      #     max_post_count: 5
+      #     template: "- 🌟 **[$title]($url)**<br/>📅 *Published on $date* | 🏷️ $categories | ⏱️ $readTime min read"
+      #     date_format: "mm ddd yyyy"
+      #     custom_tags: "categories,readTime"
 
       # Update YouTube videos
       - name: Update README with YouTube videos
