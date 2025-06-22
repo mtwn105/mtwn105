@@ -187,9 +187,12 @@ const amitWani = {
 
 ### 📰 **Dev.to Articles** - [dev.to/mtwn105](https://dev.to/mtwn105)
 
-<!-- DEVTO-BLOG-LIST:START -->
-
-<!-- DEVTO-BLOG-LIST:END -->
+<!-- DEVTO-BLOG-LIST:START -->- 🚀 **[DecipherIt: Building a NotebookLM-Inspired AI Research Assistant powered by Bright Data](https://dev.to/mtwn105/decipherit-building-a-notebooklm-inspired-ai-research-assistant-powered-by-bright-data-ckf)**  
+📅 *Published on May 25, 2025*- 🚀 **[Vibe Coded AI Stock Analyst with Amazon Q in 1 Hour!](https://dev.to/mtwn105/vibe-coded-ai-stock-analyst-with-amazon-q-in-1-hour-20hf)**  
+📅 *Published on May 12, 2025*- 🚀 **[AudioIntel - Transform Audio into Actionable Intelligence](https://dev.to/mtwn105/audiointel-transform-audio-into-actionable-intelligence-nd8)**  
+📅 *Published on Nov 25, 2024*- 🚀 **[MailTales - Make Emails Fun Again!](https://dev.to/mtwn105/mailtales-make-emails-fun-again-5d9l)**  
+📅 *Published on Sep 02, 2024*- 🚀 **[Redis Performance Testing](https://dev.to/mtwn105/redis-performance-testing-1e57)**  
+📅 *Published on Dec 23, 2023*<!-- DEVTO-BLOG-LIST:END -->
 
 ### 📺 **YouTube Videos** - [youtube.com/@AmitWani](https://www.youtube.com/@AmitWani)
 
