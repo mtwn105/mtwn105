@@ -22,7 +22,9 @@ jobs:
           comment_tag_name: "DEVTO-BLOG-LIST"
           feed_list: "https://dev.to/feed/mtwn105"
           max_post_count: 5
-          template: "- 📝 [$title]($url) - *$date*"
+          template: "- 🚀 **[$title]($url)**<br/>📅 *Published on $date* | ❤️ $reactions reactions | 💬 $comments comments"
+          date_format: "mmm dd, yyyy"
+          custom_tags: "reactions,comments"
 
       # Update Medium blog posts
       - name: Update README with Medium posts
@@ -31,7 +33,9 @@ jobs:
           comment_tag_name: "MEDIUM-BLOG-LIST"
           feed_list: "https://medium.com/feed/@mtwn105"
           max_post_count: 5
-          template: "- 📖 [$title]($url) - *$date*"
+          template: "- 📚 **[$title]($url)**<br/>📅 *Published on $date* | 👏 $claps claps | 📖 $readTime min read"
+          date_format: "mmm dd, yyyy"
+          custom_tags: "claps,readTime"
 
       # Update Personal blog posts
       - name: Update README with Personal blog posts
@@ -40,5 +44,16 @@ jobs:
           comment_tag_name: "BLOG-POST-LIST:blog.amitwani.dev"
           feed_list: "https://blog.amitwani.dev/rss.xml,https://blog.amitwani.dev/feed.xml,https://blog.amitwani.dev/feed,https://blog.amitwani.dev/atom.xml"
           max_post_count: 5
-          template: "- 🔗 [$title]($url) - *$date*"
-          filter_dates: "yyyy-MM-dd"
+          template: "- 🌟 **[$title]($url)**<br/>📅 *Published on $date* | 🏷️ $categories | ⏱️ $readTime min read"
+          date_format: "mmm dd, yyyy"
+          custom_tags: "categories,readTime"
+
+      # Update YouTube videos
+      - name: Update README with YouTube videos
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "YOUTUBE-BLOG-LIST"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?user=AmitWani"
+          max_post_count: 5
+          template: "- 🎥 **[$title]($url)**<br/>📅 *Uploaded on $date* | 📺 Watch now!"
+          date_format: "mmm dd, yyyy"
