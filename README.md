@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### 🚀 **Passionate Software Engineer from India** | **5.5+ Years Experience** | **AWS Professional**
+### 🚀 **Passionate Software Engineer from India** | **6+ Years Experience** | **AWS Professional**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://linktr.ee/amitwani)
 [![Blog](https://img.shields.io/badge/Blog-FFC107?style=for-the-badge&logo=hashnode&logoColor=black)](https://blog.amitwani.dev)
