@@ -76,35 +76,35 @@ def fetch_blog_posts():
         "https://blog.amitwani.dev/feed.xml",
         "https://blog.amitwani.dev/atom.xml",
     ]
-    
+
     for rss_url in possible_urls:
         try:
             print(f"Trying blog RSS feed: {rss_url}")
             feed = feedparser.parse(rss_url)
-            
+
             # Check if feed has entries
             if feed.entries and len(feed.entries) > 0:
                 print(f"Successfully found blog feed at: {rss_url}")
                 posts = []
-                
+
                 for entry in feed.entries[:MAX_POSTS]:
                     title = entry.title
                     link = entry.link
                     # Parse date
                     pub_date = date_parser.parse(entry.published)
                     date_str = pub_date.strftime("%b %d, %Y")
-                    
+
                     posts.append({
                         'title': title,
                         'link': link,
                         'date': date_str
                     })
-                
+
                 return posts
         except Exception as e:
             print(f"Error with {rss_url}: {e}")
             continue
-    
+
     print("Could not find a working RSS feed for blog.amitwani.dev")
     return []
 
