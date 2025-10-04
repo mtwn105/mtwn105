@@ -30,13 +30,14 @@ const amitWani = {
   name: "Amit Wani",
   role: "Software Engineer @ AWS",
   location: "Mumbai, Maharashtra, India 🇮🇳",
-  experience: "5.5+ years",
+  experience: "6+ years",
   currentFocus: "Agentic AI & Cloud Architecture",
   fuelledBy: "Chai (Tea) ☕",
 
   dailyLife: {
     code: ["Java", "JavaScript", "TypeScript", "Python"],
-    technologies: ["Spring Boot", "Node.js", "Angular", "AWS"],
+    frameworks: ["Spring Boot", "Node.js", "Angular"],
+    cloud: ["AWS"],
     currentlyLearning: "Agentic AI & Advanced Machine Learning",
     funFact: "I debug with tea and deploy with confidence! 🚀",
   },
@@ -90,35 +91,31 @@ const amitWani = {
 
 ### 💻 **Languages & Core Technologies**
 
-![Languages](https://skills.syvixor.com/api/icons?i=java,js,ts,nodejs,py,html,css,dart,markdown,yaml)
+![Languages](https://skills.syvixor.com/api/icons?i=java,js,ts,nodejs,py,html,css)
 
 ### 🚀 **Frameworks & Libraries**
 
-![Frameworks](https://skills.syvixor.com/api/icons?i=spring,express,nextjs,angular,flutter,bootstrap,bulma,fastapi,rxjs,axios)
+![Frameworks](https://skills.syvixor.com/api/icons?i=spring,express,nextjs,reactjs,angular,fastapi,tailwindcss,shadcnui,sass)
 
 ### 🤖 **AI & ML Ecosystem**
 
-![AI Tools](https://skills.syvixor.com/api/icons?i=githubcopilot,microsoftcopilot,chatgpt,claudeai,langchain,ollama,perplexity,googlegemini,groq,grok)
-
-### 🎨 **UI/UX & Styling**
-
-![UI](https://skills.syvixor.com/api/icons?i=sass,tailwind,radixui,shadcnui,postcss,prettier)
-
-### 🗄️ **Databases & Storage**
-
-![Database](https://skills.syvixor.com/api/icons?i=mongodb,mysql,postgres,redis,oracle,prisma,drizzle,sqlalchemy,hibernate)
+![AI Tools](https://skills.syvixor.com/api/icons?perline=15&i=chatgpt,claudeai,googlegemini,ollama,langchain,groq)
 
 ### ☁️ **Cloud & Infrastructure**
 
-![Cloud](https://skills.syvixor.com/api/icons?i=aws,gcp,azure,heroku,netlify,cloudflare,digitalocean,flyio)
+![Cloud](https://skills.syvixor.com/api/icons?perline=15&i=amazonwebservices,googlecloud,azure,cloudflare,springcloud,railway,flyio,digitalocean)
+
+### 🗄️ **Databases & Storage**
+
+![Database](https://skills.syvixor.com/api/icons?perline=15&i=postgresql,mysql,mariadb,mongodb,redis,oracle,sqlite,hibernate,prisma,drizzle,sqlalchemy)
 
 ### 🔄 **DevOps & CI/CD**
 
-![Devops](https://skills.syvixor.com/api/icons?i=docker,kubernetes,nginx,gitlab,prometheus,grafana)
+![Devops](https://skills.syvixor.com/api/icons?perline=15&i=docker,kubernetes,nginx,coolify,grafana,prometheus,gitlab)
 
 ### 🛠️ **Development Tools**
 
-![Dev Tools](https://skills.syvixor.com/api/icons?i=git,github,vscode,idea,androidstudio,sublime,notepadplusplus,postman)
+![Dev Tools](https://skills.syvixor.com/api/icons?i=git,github,vscode,cursor,idea,androidstudio,notepadplusplus,postman)
 
 ### 📦 **Package Managers & Build Tools**
 
@@ -126,31 +123,19 @@ const amitWani = {
 
 ### 🧪 **Testing & Quality Assurance**
 
-![Testing](https://skills.syvixor.com/api/icons?i=jest,playwright,puppeteer,junit5,eslint)
+![Testing](https://skills.syvixor.com/api/icons?i=junit5,jest,playwright,puppeteer,eslint)
 
 ### 📊 **Monitoring & Observability**
 
-![Monitoring](https://skills.syvixor.com/api/icons?i=elasticsearch,opentelemetry,grafana,umami)
-
-### 📚 **Documentation & Collaboration**
-
-![Collaboration](https://skills.syvixor.com/api/icons?i=notion,jira,swagger,jupyter,googlecolaboratory)
+![Monitoring](https://skills.syvixor.com/api/icons?i=elasticsearch,opentelemetry,grafana,prometheus,umami)
 
 ### 🖥️ **Development Environment**
 
-![Environment](https://skills.syvixor.com/api/icons?i=linux,bash,powershell,chrome,edge,ngrok)
-
-### 🔐 **Security & Authentication**
-
-![Security](https://skills.syvixor.com/api/icons?i=jwt,betterauth,protonvpn)
-
-### 🔄 **Real-time & Communication**
-
-![Communication](https://skills.syvixor.com/api/icons?i=socketio,websocket,grpc,twilio)
+![Environment](https://skills.syvixor.com/api/icons?i=linux,bash,powershell)
 
 ### 🌐 **Platforms & Services**
 
-![Platforms](https://skills.syvixor.com/api/icons?i=firebase,supabase,stackblitz,bolt,flutterflow,canva,dropbox,filezilla)
+![Platforms](https://skills.syvixor.com/api/icons?i=firebase,supabase)
 
 ---
 
@@ -192,7 +177,7 @@ const amitWani = {
 
 <table>
   <tr><th>Video</th><th>Title & Date</th></tr>
-  <!-- YOUTUBE-BLOG-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=eTll7EdQyY8"><img width="140px" src="http://img.youtube.com/vi/eTll7EdQyY8/maxresdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=eTll7EdQyY8">TripCraft AI - Your Journey, Perfectly Crafted with Intelligence</a><br/>Jun 01, 2025</td></tr><tr><td><a href="https://www.youtube.com/watch?v=CcfhiE4h9WY"><img width="140px" src="http://img.youtube.com/vi/CcfhiE4h9WY/maxresdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=CcfhiE4h9WY">🎓 I Built the Research Assistant Every Student Wishes They Had 🤖 - Powered by Bright Data &amp; CrewAI ⚡</a><br/>May 25, 2025</td></tr><tr><td><a href="https://www.youtube.com/watch?v=FP5kS3BJrLE"><img width="140px" src="http://img.youtube.com/vi/FP5kS3BJrLE/maxresdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=FP5kS3BJrLE">Vibe Coded AI Stock Analyst with Amazon Q in 1 Hour!</a><br/>May 12, 2025</td></tr><tr><td><a href="https://www.youtube.com/watch?v=NFYPyTkV-vo"><img width="140px" src="http://img.youtube.com/vi/NFYPyTkV-vo/maxresdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=NFYPyTkV-vo">Meet My Zerodha AI Agent | Built with Kite API + MCP Server 🤖📈</a><br/>Apr 16, 2025</td></tr><tr><td><a href="https://www.youtube.com/watch?v=zVAdTtqjmQo"><img width="140px" src="http://img.youtube.com/vi/zVAdTtqjmQo/maxresdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=zVAdTtqjmQo">GitHub Wrapped 2024 – Your Year in Code! — Your GitHub journey with a personalized year in code</a><br/>Dec 21, 2024</td></tr><!-- YOUTUBE-BLOG-LIST:END -->
+  <!-- YOUTUBE-BLOG-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=eTll7EdQyY8"><img width="140px" src="https://img.youtube.com/vi/eTll7EdQyY8/hqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=eTll7EdQyY8">TripCraft AI - Your Journey, Perfectly Crafted with Intelligence</a><br/>Jun 01, 2025</td></tr><tr><td><a href="https://www.youtube.com/watch?v=CcfhiE4h9WY"><img width="140px" src="https://img.youtube.com/vi/CcfhiE4h9WY/hqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=CcfhiE4h9WY">🎓 I Built the Research Assistant Every Student Wishes They Had 🤖 - Powered by Bright Data &amp; CrewAI ⚡</a><br/>May 25, 2025</td></tr><tr><td><a href="https://www.youtube.com/watch?v=FP5kS3BJrLE"><img width="140px" src="https://img.youtube.com/vi/FP5kS3BJrLE/hqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=FP5kS3BJrLE">Vibe Coded AI Stock Analyst with Amazon Q in 1 Hour!</a><br/>May 12, 2025</td></tr><tr><td><a href="https://www.youtube.com/watch?v=NFYPyTkV-vo"><img width="140px" src="https://img.youtube.com/vi/NFYPyTkV-vo/hqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=NFYPyTkV-vo">Meet My Zerodha AI Agent | Built with Kite API + MCP Server 🤖📈</a><br/>Apr 16, 2025</td></tr><tr><td><a href="https://www.youtube.com/watch?v=zVAdTtqjmQo"><img width="140px" src="https://img.youtube.com/vi/zVAdTtqjmQo/hqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=zVAdTtqjmQo">GitHub Wrapped 2024 – Your Year in Code! — Your GitHub journey with a personalized year in code</a><br/>Dec 21, 2024</td></tr><!-- YOUTUBE-BLOG-LIST:END -->
 
 </table>
 
@@ -231,7 +216,7 @@ const amitWani = {
 </a>
 </td>
 <td align="center">
-<a href="mailto:mtwn105@gmail.com">
+<a href="mailto:mtwn105+github@gmail.com">
 <img src="https://img.icons8.com/color/96/000000/gmail.png" width="40"/>
 <br><strong>Email</strong>
 </a>
