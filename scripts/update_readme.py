@@ -9,6 +9,7 @@ import os
 import re
 from datetime import datetime
 from dateutil import parser as date_parser
+import xml.etree.ElementTree as ET
 
 # Configuration
 MEDIUM_RSS_URL = "https://medium.com/feed/@mtwn105"
@@ -72,59 +73,55 @@ def fetch_blog_posts():
         rss_url = "https://blog.amitwani.dev/rss.xml"
         print(f"Fetching blog RSS feed: {rss_url}")
 
-        feed = feedparser.parse(rss_url)
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        }
+        response = requests.get(rss_url, headers=headers, timeout=15)
+        response.raise_for_status()
+        feed_content = response.content
 
-        # Debug: Print feed info
-        print(f"Feed bozo: {feed.bozo}")
-        print(f"Feed entries count: {len(feed.entries)}")
+        feed = feedparser.parse(feed_content)
 
-        if feed.bozo:
-            print(f"Feed parsing warning: {feed.bozo_exception}")
-
-        # Check if feed has entries
-        if not feed.entries or len(feed.entries) == 0:
-            print("No entries found in the feed")
-            return []
-
-        print(f"Successfully found {len(feed.entries)} blog posts")
-        posts = []
-
-        for entry in feed.entries[:MAX_POSTS]:
-            try:
+        if feed.entries and not feed.bozo:
+            print(f"Successfully parsed blog feed with feedparser. Found {len(feed.entries)} posts.")
+            posts = []
+            for entry in feed.entries[:MAX_POSTS]:
                 title = entry.title
                 link = entry.link
+                pub_date = date_parser.parse(entry.get('published', entry.get('pubDate', '')))
+                posts.append({
+                    'title': title,
+                    'link': link,
+                    'date': pub_date.strftime("%b %d, %Y")
+                })
+            return posts
 
-                # Try different date fields
-                date_str = None
-                if hasattr(entry, 'published'):
-                    pub_date = date_parser.parse(entry.published)
-                    date_str = pub_date.strftime("%b %d, %Y")
-                elif hasattr(entry, 'pubDate'):
-                    pub_date = date_parser.parse(entry.pubDate)
-                    date_str = pub_date.strftime("%b %d, %Y")
-                elif hasattr(entry, 'updated'):
-                    pub_date = date_parser.parse(entry.updated)
-                    date_str = pub_date.strftime("%b %d, %Y")
-                else:
-                    # Default to current date if no date found
-                    date_str = datetime.now().strftime("%b %d, %Y")
+        print("Feedparser failed to parse entries. Attempting manual XML parsing...")
+        posts = []
+        root = ET.fromstring(feed_content)
+        for item in root.findall('.//item')[:MAX_POSTS]:
+            try:
+                title = item.find('title').text
+                link = item.find('link').text
+                pub_date_str = item.find('pubDate').text
+                pub_date = date_parser.parse(pub_date_str)
+                date_str = pub_date.strftime("%b %d, %Y")
 
                 posts.append({
                     'title': title,
                     'link': link,
                     'date': date_str
                 })
-
-                print(f"Added post: {title}")
-
+                print(f"Manually parsed and added post: {title}")
             except Exception as e:
-                print(f"Error parsing entry: {e}")
+                print(f"Error parsing an item manually: {e}")
                 continue
 
+        print(f"Successfully parsed {len(posts)} posts manually.")
         return posts
 
     except Exception as e:
-        print(f"Error fetching blog posts: {e}")
+        print(f"An error occurred while fetching blog posts: {e}")
         import traceback
         traceback.print_exc()
         return []
