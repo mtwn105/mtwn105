@@ -68,45 +68,66 @@ def fetch_devto_posts():
 
 def fetch_blog_posts():
     """Fetch latest blog posts from blog.amitwani.dev"""
-    # Try multiple common RSS feed URLs
-    possible_urls = [
-        "https://blog.amitwani.dev/rss.xml",
-        "https://blog.amitwani.dev/feed",
-        "https://blog.amitwani.dev/rss",
-        "https://blog.amitwani.dev/feed.xml",
-        "https://blog.amitwani.dev/atom.xml",
-    ]
+    try:
+        rss_url = "https://blog.amitwani.dev/rss.xml"
+        print(f"Fetching blog RSS feed: {rss_url}")
 
-    for rss_url in possible_urls:
-        try:
-            print(f"Trying blog RSS feed: {rss_url}")
-            feed = feedparser.parse(rss_url)
+        feed = feedparser.parse(rss_url)
 
-            # Check if feed has entries
-            if feed.entries and len(feed.entries) > 0:
-                print(f"Successfully found blog feed at: {rss_url}")
-                posts = []
+        # Debug: Print feed info
+        print(f"Feed bozo: {feed.bozo}")
+        print(f"Feed entries count: {len(feed.entries)}")
 
-                for entry in feed.entries[:MAX_POSTS]:
-                    title = entry.title
-                    link = entry.link
-                    # Parse date
+        if feed.bozo:
+            print(f"Feed parsing warning: {feed.bozo_exception}")
+
+        # Check if feed has entries
+        if not feed.entries or len(feed.entries) == 0:
+            print("No entries found in the feed")
+            return []
+
+        print(f"Successfully found {len(feed.entries)} blog posts")
+        posts = []
+
+        for entry in feed.entries[:MAX_POSTS]:
+            try:
+                title = entry.title
+                link = entry.link
+
+                # Try different date fields
+                date_str = None
+                if hasattr(entry, 'published'):
                     pub_date = date_parser.parse(entry.published)
                     date_str = pub_date.strftime("%b %d, %Y")
+                elif hasattr(entry, 'pubDate'):
+                    pub_date = date_parser.parse(entry.pubDate)
+                    date_str = pub_date.strftime("%b %d, %Y")
+                elif hasattr(entry, 'updated'):
+                    pub_date = date_parser.parse(entry.updated)
+                    date_str = pub_date.strftime("%b %d, %Y")
+                else:
+                    # Default to current date if no date found
+                    date_str = datetime.now().strftime("%b %d, %Y")
 
-                    posts.append({
-                        'title': title,
-                        'link': link,
-                        'date': date_str
-                    })
+                posts.append({
+                    'title': title,
+                    'link': link,
+                    'date': date_str
+                })
 
-                return posts
-        except Exception as e:
-            print(f"Error with {rss_url}: {e}")
-            continue
+                print(f"Added post: {title}")
 
-    print("Could not find a working RSS feed for blog.amitwani.dev")
-    return []
+            except Exception as e:
+                print(f"Error parsing entry: {e}")
+                continue
+
+        return posts
+
+    except Exception as e:
+        print(f"Error fetching blog posts: {e}")
+        import traceback
+        traceback.print_exc()
+        return []
 
 def fetch_youtube_videos():
     """Fetch latest YouTube videos"""
