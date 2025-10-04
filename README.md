@@ -173,6 +173,14 @@ const amitWani = {
 
 </table>
 
+### 📝 **Personal Blog** - [blog.amitwani.dev](https://blog.amitwani.dev)
+
+<table>
+  <tr><th>Title</th><th>Date</th></tr>
+  <!-- BLOG-LIST:START --><!-- BLOG-LIST:END -->
+
+</table>
+
 ### 📺 **YouTube Videos** - [youtube.com/@AmitWani](https://www.youtube.com/@AmitWani)
 
 <table>
